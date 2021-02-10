@@ -1,5 +1,6 @@
-# curricularEthics
+# Course Materials 
 
-Coming soon: teaching tools (exercises, activities, labs with an ethical component)
-for a sample of application courses.
+This repository contains a summary of ethics-related content of application CS courses at Allegheny.
+
+
 
