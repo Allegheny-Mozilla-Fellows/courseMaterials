@@ -2,6 +2,10 @@
 
 This repository contains a summary of ethics-related materials of application computer science courses at Allegheny College. These materials are still in development and they will continue to be enhanced and more content will be added with time.
 
+## Code of Conduct Activity
+
+- [Developing Code of Conduct](https://github.com/Allegheny-Mozilla-Fellows/CodeOfConduct)
+
 ## Bioinformatics
 
 This is a class for the study of biological mechanisms, by the application of biological or life-science data to mathematical and statistical inquiry using programming and computational technology. The class traditionally attracts its scholars from Biology and Computer Science who are brought together by initial lessons in basic biology and basic computer science. After the students from each background have been given the fundamentals of each parent discipline, we take both fields together to study DNA, RNA and protein using automated means. Our studies take us into pandemics, viruses, gene-analysis, comparative biology and other very exciting pursuits. In addition, our studies cover the ethics of Bioinformatics. For this concentration, the class reads articles discussing what Dr. Bonham-Carter calls, “Famous Trainwrecks'' of research or obvious abuses of biotechnology. Written essays are then assigned to invite students to explore the consequences of completing tasks using biotechnology without ethical judgment. 
@@ -16,7 +20,7 @@ In this class students work with data from the perspectives of marketing, the li
 
 - [Syllabus](https://github.com/Allegheny-Computer-Science-301-F2020/classDocs/blob/main/labs/02_lab_11Sept2020_cs301_googleAnalytics.pdf)
 
-- [Gene Expression Lab](https://github.com/Allegheny-Mozilla-Fellows/GeneExpressionAnalysis)
+- [Gene Expression Analysis Lab](https://github.com/Allegheny-Mozilla-Fellows/GeneExpressionAnalysis)
 
 - [Inferences of User Behavior Activity](https://github.com/Allegheny-Mozilla-Fellows/QAZPLM)
 
@@ -24,11 +28,9 @@ In this class students work with data from the perspectives of marketing, the li
 
 ## Web Development
 
-The learning objectives of the course include learning to implement a website that “takes into account user preferences and demographics, thereby ensuring that it is both accessible and in adherence to both the cultural expectations and legal and ethical frameworks of the intended audience”. The main way in which this learning objective is assessed is through the long-term web design portfolio project.
+The learning objectives of the course include learning to implement a website that “takes into account user preferences and demographics, thereby ensuring that it is both accessible and in adherence to both the cultural expectations and legal and ethical frameworks of the intended audience”. The main way in which this learning objective is assessed is through the long-term [web design portfolio project](https://github.com/Allegheny-Computer-Science-302-F2020/cs302-F2020-portfolio1-starter).
 
 - [Learning Objectives](https://github.com/Allegheny-Computer-Science-302-F2020/cs302-F2020-plans/blob/master/learning-objectives/web-development.md)
-
-- [project GitHub repository](https://github.com/Allegheny-Computer-Science-302-F2020/cs302-F2020-portfolio1-starter).
 
 ## Artificial Intelligence
 
